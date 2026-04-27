@@ -19,6 +19,8 @@ body {
   display: grid;
   grid-template-columns: 280px 1fr;
   grid-template-rows: auto 1fr;
+  height: 100vh;
+  overflow: hidden;
 }
 
 /* ── SIDEBAR ── */
@@ -198,6 +200,7 @@ header {
   grid-template-columns: 1fr 280px;
   gap: 24px;
   align-items: start;
+  overflow-y: auto;
 }
 
 /* Projects */
