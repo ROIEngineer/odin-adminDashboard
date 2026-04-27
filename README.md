@@ -5,6 +5,7 @@ A responsive admin dashboard layout built using **HTML** and **CSS Grid/Flexbox*
 ---
 
 ## 📸 Preview
+<img width="1440" height="900" alt="odin-dashboard-ui" src="https://github.com/user-attachments/assets/06ac995f-75b3-4e8d-a6d0-eb5f051505bd" />
 
 ---
 
